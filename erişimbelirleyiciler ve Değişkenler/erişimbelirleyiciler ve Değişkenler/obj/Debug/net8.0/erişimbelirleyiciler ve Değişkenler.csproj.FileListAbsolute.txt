@@ -1,0 +1,14 @@
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\bin\Debug\net8.0\erişimbelirleyiciler ve Değişkenler.exe
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\bin\Debug\net8.0\erişimbelirleyiciler ve Değişkenler.deps.json
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\bin\Debug\net8.0\erişimbelirleyiciler ve Değişkenler.runtimeconfig.json
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\bin\Debug\net8.0\erişimbelirleyiciler ve Değişkenler.dll
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\bin\Debug\net8.0\erişimbelirleyiciler ve Değişkenler.pdb
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\obj\Debug\net8.0\erişimbelirleyiciler ve Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\obj\Debug\net8.0\erişimbelirleyiciler ve Değişkenler.AssemblyInfoInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\obj\Debug\net8.0\erişimbelirleyiciler ve Değişkenler.AssemblyInfo.cs
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\obj\Debug\net8.0\erişimbelirleyiciler ve Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\obj\Debug\net8.0\erişimbelirleyiciler ve Değişkenler.dll
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\obj\Debug\net8.0\refint\erişimbelirleyiciler ve Değişkenler.dll
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\obj\Debug\net8.0\erişimbelirleyiciler ve Değişkenler.pdb
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\obj\Debug\net8.0\erişimbelirleyiciler ve Değişkenler.genruntimeconfig.cache
+C:\Users\siyar\OneDrive\Masaüstü\erişim belirleyiciler ve değişkenler\erişimbelirleyiciler ve Değişkenler\erişimbelirleyiciler ve Değişkenler\obj\Debug\net8.0\ref\erişimbelirleyiciler ve Değişkenler.dll

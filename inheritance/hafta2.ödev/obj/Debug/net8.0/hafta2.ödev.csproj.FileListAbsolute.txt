@@ -1,0 +1,14 @@
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\bin\Debug\net8.0\hafta2.ödev.exe
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\bin\Debug\net8.0\hafta2.ödev.deps.json
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\bin\Debug\net8.0\hafta2.ödev.runtimeconfig.json
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\bin\Debug\net8.0\hafta2.ödev.dll
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\bin\Debug\net8.0\hafta2.ödev.pdb
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\obj\Debug\net8.0\hafta2.ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\obj\Debug\net8.0\hafta2.ödev.AssemblyInfoInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\obj\Debug\net8.0\hafta2.ödev.AssemblyInfo.cs
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\obj\Debug\net8.0\hafta2.ödev.csproj.CoreCompileInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\obj\Debug\net8.0\hafta2.ödev.dll
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\obj\Debug\net8.0\refint\hafta2.ödev.dll
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\obj\Debug\net8.0\hafta2.ödev.pdb
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\obj\Debug\net8.0\hafta2.ödev.genruntimeconfig.cache
+C:\Users\siyar\OneDrive\Masaüstü\staj dersleri\hafta2.ödev\hafta2.ödev\hafta2.ödev\obj\Debug\net8.0\ref\hafta2.ödev.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "abstarctionödev3BenzinHesaplama/1.0.0": {
+        "runtime": {
+          "abstarctionödev3BenzinHesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "abstarctionödev3BenzinHesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

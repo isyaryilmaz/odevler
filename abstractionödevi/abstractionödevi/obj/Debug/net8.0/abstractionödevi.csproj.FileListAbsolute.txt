@@ -1,0 +1,14 @@
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\obj\Debug\net8.0\abstractionödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\obj\Debug\net8.0\abstractionödevi.AssemblyInfoInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\obj\Debug\net8.0\abstractionödevi.AssemblyInfo.cs
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\obj\Debug\net8.0\abstractionödevi.csproj.CoreCompileInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\bin\Debug\net8.0\abstractionödevi.exe
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\bin\Debug\net8.0\abstractionödevi.deps.json
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\bin\Debug\net8.0\abstractionödevi.runtimeconfig.json
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\bin\Debug\net8.0\abstractionödevi.dll
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\bin\Debug\net8.0\abstractionödevi.pdb
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\obj\Debug\net8.0\abstractionödevi.dll
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\obj\Debug\net8.0\refint\abstractionödevi.dll
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\obj\Debug\net8.0\abstractionödevi.pdb
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\obj\Debug\net8.0\abstractionödevi.genruntimeconfig.cache
+C:\Users\siyar\OneDrive\Masaüstü\abstraction\abstractionödevi\abstractionödevi\obj\Debug\net8.0\ref\abstractionödevi.dll

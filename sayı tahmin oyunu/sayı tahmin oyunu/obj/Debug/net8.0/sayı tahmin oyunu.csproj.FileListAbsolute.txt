@@ -1,0 +1,14 @@
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\net8.0\sayı tahmin oyunu.exe
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\net8.0\sayı tahmin oyunu.deps.json
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\net8.0\sayı tahmin oyunu.runtimeconfig.json
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\net8.0\sayı tahmin oyunu.dll
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\net8.0\sayı tahmin oyunu.pdb
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\net8.0\sayı tahmin oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\net8.0\sayı tahmin oyunu.AssemblyInfoInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\net8.0\sayı tahmin oyunu.AssemblyInfo.cs
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\net8.0\sayı tahmin oyunu.csproj.CoreCompileInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\net8.0\sayı tahmin oyunu.dll
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\net8.0\refint\sayı tahmin oyunu.dll
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\net8.0\sayı tahmin oyunu.pdb
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\net8.0\sayı tahmin oyunu.genruntimeconfig.cache
+C:\Users\siyar\OneDrive\Masaüstü\sayı tahmin oyunu\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\net8.0\ref\sayı tahmin oyunu.dll

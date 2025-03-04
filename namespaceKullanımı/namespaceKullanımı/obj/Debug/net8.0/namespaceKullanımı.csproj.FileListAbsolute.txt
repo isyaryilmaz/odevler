@@ -1,0 +1,14 @@
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\bin\Debug\net8.0\namespaceKullanımı.exe
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\bin\Debug\net8.0\namespaceKullanımı.deps.json
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\bin\Debug\net8.0\namespaceKullanımı.runtimeconfig.json
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\bin\Debug\net8.0\namespaceKullanımı.dll
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\bin\Debug\net8.0\namespaceKullanımı.pdb
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\obj\Debug\net8.0\namespaceKullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\obj\Debug\net8.0\namespaceKullanımı.AssemblyInfoInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\obj\Debug\net8.0\namespaceKullanımı.AssemblyInfo.cs
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\obj\Debug\net8.0\namespaceKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\obj\Debug\net8.0\namespaceKullanımı.dll
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\obj\Debug\net8.0\refint\namespaceKullanımı.dll
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\obj\Debug\net8.0\namespaceKullanımı.pdb
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\obj\Debug\net8.0\namespaceKullanımı.genruntimeconfig.cache
+C:\Users\siyar\OneDrive\Masaüstü\namespace kullanımı\namespaceKullanımı\namespaceKullanımı\obj\Debug\net8.0\ref\namespaceKullanımı.dll
